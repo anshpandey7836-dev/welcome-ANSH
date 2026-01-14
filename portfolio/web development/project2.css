@@ -1,0 +1,23 @@
+.AB{
+  margin: 0;
+  height: fit-content;
+  width: fit-content;
+  padding: 20px;
+  background-attachment: fixed;
+  background-color: black;
+  background-position: relative;
+  position: relative;
+  color: aliceblue;
+}
+.img1{
+  height: 300px;
+  width: 300px;
+}
+p,h1{
+  text-transform: uppercase;
+}
+.img2{
+  height: 350px;
+  width: 340px;
+  text-align: right;
+}
